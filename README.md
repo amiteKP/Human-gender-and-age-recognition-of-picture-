@@ -168,24 +168,25 @@ python detect.py -img picture_name.jpeg
 py detect.py -img picture_name.jpeg
 ```
 
-# Output Result
-example 1: 
+## Output Result
+
+# example 1: 
 
 <img width="473" alt="image" src="https://user-images.githubusercontent.com/72391917/161980776-3bf47075-81eb-48a3-8a71-a73f7c7a8c47.png">
 
-Output :
+# Output :
 
 <img width="430" alt="image" src="https://user-images.githubusercontent.com/72391917/161980931-c6985dff-a2a9-4ace-a2c2-33ce138a1032.png">
 
-example 2:
+# example 2:
 
 <img width="474" alt="image" src="https://user-images.githubusercontent.com/72391917/161981154-44dfcab5-f1a9-4808-b8a2-468b33ca7ce0.png">
 
-Output :
+# Output :
 
 <img width="348" alt="image" src="https://user-images.githubusercontent.com/72391917/161981222-3c97eeab-f2ab-468b-a795-71ccbd90befb.png">
 
-**example 3: **
+# example 3: 
 
 <img width="358" alt="image" src="https://user-images.githubusercontent.com/72391917/161986937-846f751c-e1fe-419c-aab2-a37e5027a496.png">
 
@@ -194,7 +195,7 @@ Output :
 <img width="354" alt="image" src="https://user-images.githubusercontent.com/72391917/161987299-cb907a85-d8c2-417b-88da-6e5122ecc1ad.png">
 
 
-# Nobelity Results
+## Nobelity Results
 We saw above that the network is able to predict both Gender and Age to high level of accuracy. Next, we wanted to do something interesting with this model. Many actors have portrayed the role of the opposite gender in movies.
 We want to check  what AI says about their looks in these roles and whether they are able to fool the AI.
 We used some  images which shows their actual photographs along with those from the movies in which they changed their gender. Let’s have a look.
