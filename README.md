@@ -169,3 +169,7 @@ py detect.py -img picture_name.jpeg
 ```
 
 # Output Result
+example 1: 
+
+<img width="415" alt="image" src="https://user-images.githubusercontent.com/72391917/161977331-4d769db2-7b6a-4ce0-ace5-bdbd0790b5f1.png">
+
