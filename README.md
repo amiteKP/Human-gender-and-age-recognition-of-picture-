@@ -185,7 +185,7 @@ Output :
 
 <img width="348" alt="image" src="https://user-images.githubusercontent.com/72391917/161981222-3c97eeab-f2ab-468b-a795-71ccbd90befb.png">
 
-example 3:
+**example 3: **
 
 <img width="358" alt="image" src="https://user-images.githubusercontent.com/72391917/161986937-846f751c-e1fe-419c-aab2-a37e5027a496.png">
 
@@ -199,27 +199,28 @@ We saw above that the network is able to predict both Gender and Age to high lev
 We want to check  what AI says about their looks in these roles and whether they are able to fool the AI.
 We used some  images which shows their actual photographs along with those from the movies in which they changed their gender. Let’s have a look.
 
-example 1:
+# example 1:
 
 <img width="288" alt="image" src="https://user-images.githubusercontent.com/72391917/161984147-f0c00be7-4ba3-4506-b1a1-74c0184a79c5.png">
 
-Output :
+# Output :
 
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/72391917/161984721-be10208f-4922-4a02-8ea2-940b22df54d1.png">
 
-example 2:
+# example 2:
 
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/72391917/161987860-1bb90216-5ae9-4ef5-8c99-9a7dcc4897ce.png">
 
-Output :
+# Output :
 
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/72391917/161984881-7a72d18f-b761-4f25-9dd3-80e62e415214.png">
 
-example 3:
+# example 3:
 
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/72391917/161988430-33704934-2b0e-49d7-bc8a-7906120aced3.png">
 
-Output :
+# Output :
+
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/72391917/161985076-6ea14905-aeef-4f69-b75a-5ec4204106ae.png">
 
 
