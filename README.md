@@ -3,7 +3,8 @@
 This model helps you find age & gender
 of person in image
 
-<img width="342" alt="image" src="https://user-images.githubusercontent.com/72391917/162010863-c993f9be-a98d-4f04-833f-3efee4beda8a.png">
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/72391917/162011085-99f0fdd3-962b-4060-b307-4b79544adc4c.png">
+
 
 ## Brief Working
 
