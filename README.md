@@ -39,7 +39,7 @@ The two fully connected layers have 512 nodes each
 
 # Dataset
 
-We used the Adience [Dateset](https://www.kaggle.com/datasets/ttungl/adience-benchmark-gender-and-age-classification)
+We used the Adience [Dataset](https://www.kaggle.com/datasets/ttungl/adience-benchmark-gender-and-age-classification)
 
 This dataset serves as a benchmark for face photos and is inclusive of various real-world imaging conditions :
 
